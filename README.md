@@ -2,15 +2,15 @@
 
 ##### This project was completed as part of a technical assignment at a recent job interview. 
 ##### In this project, I conduct a preliminary exploration of a fictitious online video streaming service KPIs. This preliminary analysis will then serve as a foundation for future business questions, which I will be exploring and answering in future projects.
-##### This ReadMe outlines the steps to my analitical process in my preliminary exploration. 
+##### This ReadMe outlines the steps to my analitical process in my preliminary exploration and first chosen business question. 
 
 # Project Overview
 
-## Premise
+### Premise
 #### You're an analyst for "SaaSquatch Videos": a B2C subscription based video streaming service
 #### Conduct an exploratory analysis of the data and present insights to a chosen business question
 
-## About "SaaSquatch Videos"
+### About "SaaSquatch Videos"
 #### Saasquatch Videos Hosts Three Brands:
 ###### Dare Network: For Adults
 ###### Playground Prime: For Children
@@ -20,12 +20,12 @@
 ###### Trial to Subscription Rates
 ###### User Engagement
 
-## Chosen Business Questions
+### Chosen Business Questions
 #### Why has Dare Network been outperforming Playground Prime in various KPIs?
 #### Can Dare's success be replicated in the other two brands?
 #### What strategies can SaaSquatch Videos' teams use to drive up numbers in the other brands?
 
-## Datasets
+### Datasets
 #### The dataset consists of four tables: Leads, Trials, Cancellations and Watched Videos
 #### Table 1: Leads
 ###### Records of people signing up for email campaigns, called "Leads"
@@ -39,7 +39,7 @@
 ###### Daily summary of watched videos by user
 ###### Includes details such as: video genre, which brand the video is from, etc.
 
-## Steps to Analysis
+### Steps to Analysis
 #### Step 1. Initial Exploration
 ###### Explore each individual table and record initial insghts
 ###### From the initial insights, note potential areas and business questions to explore
@@ -49,4 +49,8 @@
 #### Step 3. Final Recommendations and Insights
 ###### Compile insights into a presentation
 #### Step 4. Suggest Additional Areas to Research and Questions to Answer
+
+# Initial Exploration and Choosing a Business Question
+
+
 
