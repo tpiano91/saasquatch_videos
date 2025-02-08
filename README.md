@@ -2,7 +2,7 @@
 
 ##### This project was completed as part of a technical assignment at a recent job interview. 
 ##### In this project, I conduct a preliminary exploration of a fictitious online video streaming service KPIs. This preliminary analysis will then serve as a foundation for future business questions, which I will be exploring and answering in future projects.
-##### This ReadMe outlines the steps to my analitical process in my preliminary exploration and first chosen business question. 
+##### This ReadMe outlines the steps to my analytical process in my preliminary exploration and first chosen business question. 
 
 # Project Overview
 
