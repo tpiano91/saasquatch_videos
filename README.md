@@ -108,7 +108,7 @@
 ![visual_9](visualizations/videos_watched_over_time.png)
 ##### 1. There is a recent decline in user engagement (video watch time) between July-August
 
-## Choosing business questions to answer
+## Choosing business questions to explore
 
 #### From the initial exploration and my recorded preliminary insights, there were multiple interesting possible questions to explore. I chose three business questions to guide my exploration. Other questions may be explored in future projects.
 
