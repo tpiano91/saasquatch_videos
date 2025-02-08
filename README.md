@@ -118,4 +118,4 @@
 
 # Step 2. Answering the Business Questions: Exploring Dare Network's Success Factors
 
-### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research.
+#### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research.
