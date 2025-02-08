@@ -52,7 +52,7 @@
 ###### Compile insights into a presentation
 ##### Step 4. Suggest Additional Areas to Research and Questions to Answer
 
-# Initial Exploration and Choosing a Business Question
+# Step 1. Initial Exploration and Choosing a Business Question
 ##### In this step, I explored each of the four tables individually. By creating visualizations and noting preliminary insights, I noted possible business questions to focus on.
 
 ## Initial Exploration
@@ -116,4 +116,6 @@
 ##### 2. Can Dare's success be replicated in the other two brands?
 ##### 3. What strategies can SaaSquatch Videos' teams use to drive up numbers in the other brands?
 
-# Answering the Business Questions: Exploring Dare Network's Success Factors
+# Step 2. Answering the Business Questions: Exploring Dare Network's Success Factors
+
+### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research.
