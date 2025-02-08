@@ -11,19 +11,21 @@
 ##### Conduct an exploratory analysis of the data and present insights to a chosen business question
 
 ### About "SaaSquatch Videos"
-##### Saasquatch Videos Hosts Three Brands:
+##### 1. Saasquatch Videos Hosts Three Brands:
 ###### Dare Network: For Adults
 ###### Playground Prime: For Children
 ###### Mosaic: For General Audiences
-#### Mosaic is a recently launched brand
-#### Dare Network has been outperforming Playground Prime in various metrics, most notably in:
+##### 2. Mosaic is a recently launched brand
+##### 3. Dare Network has been outperforming Playground Prime in various metrics, most notably in:
 ###### Trial to Subscription Rates
 ###### User Engagement
 
 ### Chosen Business Questions
-##### Why has Dare Network been outperforming Playground Prime in various KPIs?
-##### Can Dare's success be replicated in the other two brands?
-##### What strategies can SaaSquatch Videos' teams use to drive up numbers in the other brands?
+
+##### 1. Why has Dare Network been outperforming Playground Prime in various KPIs?
+##### 2. Can Dare's success be replicated in the other two brands?
+##### 3. What strategies can SaaSquatch Videos' teams use to drive up numbers in the other brands?
+##### In the "Initial Exploration" section, I will explain how and why I chose these three business questions
 
 ### Datasets
 ##### The dataset consists of four tables: Leads, Trials, Cancellations and Watched Videos
@@ -75,9 +77,31 @@
 ![visual_4](visualizations/campaign_brand_distribution_horizontal.png)
 
 ##### Each brand had one Lead campaign that was vastly more successful/popular than all of their other campaigns
+##### "Playground Prime" had the most popular campaign of all, "Cuddle Up for Cartoon Time" 
+###### (t would be useful later to check if this campaign launched during one of "Playground Prime's" peak months of December or March (See corresponding graph above)
 
 ![visual_5](visualizations/trials_per_brand.png)
 
 ##### "Dare Network" has by far the most number of trials. This is interesting because "Playground Prime" has a far lower number of trials despite having a similar number of leads. This requires further research. Possible reasons/explanations include:
 ###### Do more "Dare Network" Leads convert into Trials?
 ###### Does "Dare Network" attract more people to sign up for trials without a lead campaign?
+
+### Table 3: Cancellations
+###### I did not use this table for my chosen topic, but the initial insights from this table warrant further research
+
+![visual_6](visualizations/cancellations_over_time.png)
+
+##### There was a steep, steady rise of cancellations between December-February and June-August. Look into possible reasons.
+
+### Table 4: Watched Videos
+
+![visual_7](visualizations/videos_watched_by_brand.png)
+##### "Dare Network" shows highest levels of user engagement by far by number of videos watched
+
+![visual_8](visualizations/videos_watched_by_genre.png)
+##### "Comedy" and "Reality" are by far the most popular genres by number of videos watched. Possible reasons to look into include:
+###### Are users binging these videos in one sitting? 
+###### Are more users watching these overall?
+
+![visual_9](visualizations/videos_watched_over_time.png)
+##### There is a recent decline in user engagement (video watch time) between July-August
