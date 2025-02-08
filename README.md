@@ -55,6 +55,8 @@
 # Initial Exploration and Choosing a Business Question
 ##### In this step, I explored each of the four tables individually. By creating visualizations and noting preliminary insights, I noted possible business questions to focus on.
 
+## Initial Exploration
+
 ### Table 1: Leads
 
 ![visual_1](visualizations/brand_counts.png)
@@ -105,3 +107,13 @@
 
 ![visual_9](visualizations/videos_watched_over_time.png)
 ##### 1. There is a recent decline in user engagement (video watch time) between July-August
+
+## Choosing business questions to answer
+
+#### From the initial exploration and my recorded preliminary insights, there were multiple interesting possible questions to explore. I chose three business questions to guide my exploration. Other questions may be explored in future projects.
+
+##### 1. Why has Dare Network been outperforming Playground Prime in various KPIs?
+##### 2. Can Dare's success be replicated in the other two brands?
+##### 3. What strategies can SaaSquatch Videos' teams use to drive up numbers in the other brands?
+
+# Answering the Business Questions: Exploring Dare Network's Success Factors
