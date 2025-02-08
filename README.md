@@ -72,13 +72,13 @@
 ##### 1. The number of total leads fluctuates much less than individual brands (particularly the two leading brands)
 ##### 2. July/August showed a healthy number of leads, despite the two leading networks ("Dare Network" and "Playground Prime") having very low numbers in those months
 
-### Table 2: Trials
-
 ![visual_4](visualizations/campaign_brand_distribution_horizontal.png)
 
 ##### 1. Each brand had one Lead campaign that was vastly more successful/popular than all of their other campaigns
 ##### 2. "Playground Prime" had the most popular campaign of all, "Cuddle Up for Cartoon Time" 
 ###### It would be useful later to check if this campaign launched during one of "Playground Prime's" peak months of December or March (See corresponding graph above)
+
+### Table 2: Trials
 
 ![visual_5](visualizations/trials_per_brand.png)
 
