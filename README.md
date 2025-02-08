@@ -51,7 +51,22 @@
 ##### Step 4. Suggest Additional Areas to Research and Questions to Answer
 
 # Initial Exploration and Choosing a Business Question
+##### In this step, I explored each of the four tables individually. By creating visualizations and noting preliminary insights, I noted possible business questions to focus on.
 
-![visual_1](visualizations/month_emailed_counts.png)
+#### Table 1: Leads
 
+![visual_1](visualizations/brand_counts.png)
+
+##### "Dare Network" and "Playground Prime" have similar a number of leads. They both have far more leads than "Mosaic".
+
+![visual_2](visualizations/brand_performance_over_time.png)
+
+##### "Mosaic" is likely a new brand, as they had no leads until July 2024. This likely explains why they had far fewer leads than the other two brands
+##### "Dare Network" and "Playground Prime" have had declining leads from March/April through July/August. 
+##### "Playground Prime" shows the most extreme fluctuations - maybe caused by seasonality.
+
+![visual_3](visualizations/month_emailed_counts.png)
+
+##### The number of total leads fluctuates much less than individual brands (particularly the two leading brands)
+##### July/August showed a healthy number of leads, despite the two leading networks ("Dare Network" and "Playground Prime") having very low numbers in those months
 
