@@ -53,7 +53,7 @@
 # Initial Exploration and Choosing a Business Question
 ##### In this step, I explored each of the four tables individually. By creating visualizations and noting preliminary insights, I noted possible business questions to focus on.
 
-#### Table 1: Leads
+### Table 1: Leads
 
 ![visual_1](visualizations/brand_counts.png)
 
@@ -70,3 +70,14 @@
 ##### The number of total leads fluctuates much less than individual brands (particularly the two leading brands)
 ##### July/August showed a healthy number of leads, despite the two leading networks ("Dare Network" and "Playground Prime") having very low numbers in those months
 
+### Table 2: Trials
+
+![visual_4](visualizations/campaign_brand_distribution_horizontal.png)
+
+##### Each brand had one Lead campaign that was vastly more successful/popular than all of their other campaigns
+
+![visual_5](visualizations/trials_per_brand.png)
+
+##### "Dare Network" has by far the most number of trials. This is interesting because "Playground Prime" has a far lower number of trials despite having a similar number of leads. This requires further research. Possible reasons/explanations include:
+###### Do more "Dare Network" Leads convert into Trials?
+###### Does "Dare Network" attract more people to sign up for trials without a lead campaign?
