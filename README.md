@@ -59,30 +59,30 @@
 
 ![visual_1](visualizations/brand_counts.png)
 
-##### "Dare Network" and "Playground Prime" have similar a number of leads. They both have far more leads than "Mosaic".
+##### 1. "Dare Network" and "Playground Prime" have similar a number of leads. They both have far more leads than "Mosaic".
 
 ![visual_2](visualizations/brand_performance_over_time.png)
 
-##### "Mosaic" is likely a new brand, as they had no leads until July 2024. This likely explains why they had far fewer leads than the other two brands
-##### "Dare Network" and "Playground Prime" have had declining leads from March/April through July/August. 
-##### "Playground Prime" shows the most extreme fluctuations - maybe caused by seasonality.
+##### 1. "Mosaic" is likely a new brand, as they had no leads until July 2024. This likely explains why they had far fewer leads than the other two brands
+##### 2. "Dare Network" and "Playground Prime" have had declining leads from March/April through July/August. 
+##### 3. "Playground Prime" shows the most extreme fluctuations - maybe caused by seasonality.
 
 ![visual_3](visualizations/month_emailed_counts.png)
 
-##### The number of total leads fluctuates much less than individual brands (particularly the two leading brands)
-##### July/August showed a healthy number of leads, despite the two leading networks ("Dare Network" and "Playground Prime") having very low numbers in those months
+##### 1. The number of total leads fluctuates much less than individual brands (particularly the two leading brands)
+##### 2. July/August showed a healthy number of leads, despite the two leading networks ("Dare Network" and "Playground Prime") having very low numbers in those months
 
 ### Table 2: Trials
 
 ![visual_4](visualizations/campaign_brand_distribution_horizontal.png)
 
-##### Each brand had one Lead campaign that was vastly more successful/popular than all of their other campaigns
-##### "Playground Prime" had the most popular campaign of all, "Cuddle Up for Cartoon Time" 
-###### (t would be useful later to check if this campaign launched during one of "Playground Prime's" peak months of December or March (See corresponding graph above)
+##### 1. Each brand had one Lead campaign that was vastly more successful/popular than all of their other campaigns
+##### 2. "Playground Prime" had the most popular campaign of all, "Cuddle Up for Cartoon Time" 
+###### It would be useful later to check if this campaign launched during one of "Playground Prime's" peak months of December or March (See corresponding graph above)
 
 ![visual_5](visualizations/trials_per_brand.png)
 
-##### "Dare Network" has by far the most number of trials. This is interesting because "Playground Prime" has a far lower number of trials despite having a similar number of leads. This requires further research. Possible reasons/explanations include:
+##### 1. "Dare Network" has by far the most number of trials. This is interesting because "Playground Prime" has a far lower number of trials despite having a similar number of leads. This requires further research. Possible reasons/explanations include:
 ###### Do more "Dare Network" Leads convert into Trials?
 ###### Does "Dare Network" attract more people to sign up for trials without a lead campaign?
 
@@ -91,17 +91,17 @@
 
 ![visual_6](visualizations/cancellations_over_time.png)
 
-##### There was a steep, steady rise of cancellations between December-February and June-August. Look into possible reasons.
+##### 1. There was a steep, steady rise of cancellations between December-February and June-August. Look into possible reasons.
 
 ### Table 4: Watched Videos
 
 ![visual_7](visualizations/videos_watched_by_brand.png)
-##### "Dare Network" shows highest levels of user engagement by far by number of videos watched
+##### 1. "Dare Network" shows highest levels of user engagement by far by number of videos watched
 
 ![visual_8](visualizations/videos_watched_by_genre.png)
-##### "Comedy" and "Reality" are by far the most popular genres by number of videos watched. Possible reasons to look into include:
+##### 1. "Comedy" and "Reality" are by far the most popular genres by number of videos watched. Possible reasons to look into include:
 ###### Are users binging these videos in one sitting? 
 ###### Are more users watching these overall?
 
 ![visual_9](visualizations/videos_watched_over_time.png)
-##### There is a recent decline in user engagement (video watch time) between July-August
+##### 1. There is a recent decline in user engagement (video watch time) between July-August
