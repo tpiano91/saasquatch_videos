@@ -52,5 +52,6 @@
 
 # Initial Exploration and Choosing a Business Question
 
+![visual_1](visualizations/month_emailed_counts.png)
 
 
