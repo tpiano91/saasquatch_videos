@@ -165,4 +165,48 @@
 ![visual_15](visualizations/TTest1.png) 
 ![visual_16](visualizations/TTest2.png) 
 
+# Final Recommendations and Insights
+
+### Actionable Insights
+
+##### 1. Identify which aspects of Dare Network drive high user engagement
+###### Potential Aspects that drive engagement: Content quality/type, UI/UX, marketing, personalized recommendations, interactive content, reward-based incentives etc.
+###### Develop and invest in strategies to further increase engagement in all three brands
+###### Determine which of these aspects can be applied to the other two brands (for example, content such as reality or thriller may not be appropriate for Playground Prime but may be for Mosaic)
+##### 2. Why are many high engagement users not subscribing? Identify potential barriers
+###### Potential Barrers to look into: UX/UI, pricing, content type/quality, etc.
+###### Conduct surveys for this subgroup to inform marketing strategy or improve product
+##### 3. Why did some low engagement users end up subscribing? Identify the factors
+##### 4. Monitor Mosaic’s user engagement and conversion rates in the coming months (since they’re taking over the leads)
+
+### Recommendations for Further Testing
+
+#### For each of the actionable insights listed above, I recommend the folowing tests:
+
+##### Experimentation and A/B Testing (Point 1)
+###### Test new strategies or content features (inspired by Dare) to increase user engagement and identifying causation instead of just correlation
+###### Business Impact: 
+###### Identify which strategies/features are most effective in increasing trial to subscription conversion rates
+
+#### ANOVA for Genre Analysis (Points 2, 3):  
+##### Two Purposes
+###### Determine if there are significant differences in the mean number of videos watched across genres
+###### Assess if these differences are affected by conversion/subscription status
+##### Potential Business Implications: 
+###### Can identify if some genres are more engaging to converted or non-converted users
+###### Can identify if certain content types/genres are associated with high engagement but low conversion rate
+
+#### Outlier Analysis through Surveys (Points 2 and 3) 
+##### Can be used to confirm insights from ANOVA (i.e. why a genre might have high engagement but lower conversion)
+##### Business Impact
+###### Qualitative insights on why outliers (users with extremely high engagement levels) don’t convert
+#### Logistic Regression:  Predict User Conversion (Points 3 and 4)
+##### Identify key factors (genre, brand, number of videos watched, etc.) that increase likelihood of conversion
+##### Measures how strongly each variable (like each genre) is associated with conversion via correlation coefficient
+##### Business Impact
+###### Resource Allocation: spend more money on content type that is more likely to get more subscriptions
+###### Running regressions for each brand may yield insights specific to each brand (recommended)
+###### Cohort Analysis for Mosaic: add a “cohort” variable for each user and see its’ correlation to conversion
+
+
 
