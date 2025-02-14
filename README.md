@@ -118,4 +118,32 @@
 
 # Step 2. Answering the Business Questions: Exploring Dare Network's Success Factors
 
-#### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research.
+#### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research. First, I discovered and recorded further contextual insights that further focused how I wanted to answer these questions:
+
+### More Context
+
+#### Two KPIs dominated by Dare Network:
+
+##### 1. User Engagement: Number of Videos Watched (see corresponding bar graph above)
+
+![visual_10](visualizations/has_converted_by_brand.png)
+##### 2. Highest number of trials AND trial to subscription conversion Rate
+
+### Insights about Video Genres
+
+#### In order to replicate Dare Network's success in other brands, I checked out what types/genres of videos Dare Network users preferred. How did this compare to other brands, and which genres were most popular overall?
+
+![visual_11](visualizations/videos_watched_by_genre.png)
+
+##### 1. The most popular brands by far were Comedy and Reality, followed by Thriller and Drama
+
+![visual_12](visualizations/popular_genre_by_brand.png)
+
+##### 2. Dare Network's genre preferences are in line with the most popular genres across all brands
+##### 3. Playground Prime's users had very different genre preferences compared to the other two brands, preferring Family/Kids, Fantasy, Documentary and Sci-Fi
+##### 4. Dare Network and Mosaic's users exhibit similar video genre preferences - one could speculate/research if loading Mosaic's content with the same genres as Dare Network's could yield successful results
+
+### Statistical Analysis: Does high user engagement (number of videos watched) correlate to high conversion rate (trial to subscription conversion)?
+
+#### Do converted and non-converted users watch the same number of videos? If not, is this statistically significant? Let's find out!
+
