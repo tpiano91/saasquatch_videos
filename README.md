@@ -145,5 +145,18 @@
 
 ### Statistical Analysis: Does high user engagement (number of videos watched) correlate to high conversion rate (trial to subscription conversion)?
 
-#### Do converted and non-converted users watch the same number of videos? If not, is this statistically significant? Let's find out!
+#### Do converted and non-converted users watch the same number of videos? 
+
+![visual_13](visualizations/popular_box_plot_all.png)
+###### Full view to see outliers
+
+![visual_14](visualizations/popular_box_plot_all_adjust_outliers.png) 
+###### Zoomed in, without outliers
+
+##### 1. High presence of outliers in all groups, who watched extremely high numbers of videos
+##### 2. Converted users watched more videos than non-converted users
+##### 3. High Variability in User Engagement in All Groups (Highest in Dare Network)
+
+#### Before concluding whether high user engagement really correlates to higher conversion rates, a T-Test is needed to check if these results are statistically significant
+
 
