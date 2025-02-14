@@ -120,7 +120,7 @@
 
 #### To answer these business questions, I used a variety of analytical techniques including: statistical analyses; merging tables; creating additional visualizations; creating a presentation; suggesting follow-up questions and next steps for further research. First, I discovered and recorded further contextual insights that further focused how I wanted to answer these questions:
 
-### More Context
+### 2A) More Context
 
 #### Two KPIs dominated by Dare Network:
 
@@ -129,7 +129,7 @@
 ![visual_10](visualizations/has_converted_by_brand.png)
 ##### 2. Highest number of trials AND trial to subscription conversion Rate
 
-### Insights about Video Genres
+### 2B) Insights about Video Genres
 
 #### In order to replicate Dare Network's success in other brands, I checked out what types/genres of videos Dare Network users preferred. How did this compare to other brands, and which genres were most popular overall?
 
@@ -147,10 +147,10 @@
 
 #### Do converted and non-converted users watch the same number of videos? 
 
-![visual_13](visualizations/popular_box_plot_all.png)
+![visual_13](visualizations/box_plot_all.png)
 ###### Full view to see outliers
 
-![visual_14](visualizations/popular_box_plot_all_adjust_outliers.png) 
+![visual_14](visualizations/box_plot_all_adjust_outliers.png) 
 ###### Zoomed in, without outliers
 
 ##### 1. High presence of outliers in all groups, who watched extremely high numbers of videos
@@ -158,5 +158,10 @@
 ##### 3. High Variability in User Engagement in All Groups (Highest in Dare Network)
 
 #### Before concluding whether high user engagement really correlates to higher conversion rates, a T-Test is needed to check if these results are statistically significant
+
+### 2C) Results of T-Test: Proved Statistical Signifance!
+
+![visual_15](visualizations/TTest1.png) 
+![visual_16](visualizations/TTest2.png) 
 
 
